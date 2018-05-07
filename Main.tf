@@ -14,7 +14,7 @@
 
 #Two Tier Terraform Sample Deployment
 # Version: 1.2
-# Date: 02/28/2018
+# Date: 05/07/2018
 
 // Adding SSH Public Key in Project Meta Data
 resource "google_compute_project_metadata_item" "ssh-keys" {
